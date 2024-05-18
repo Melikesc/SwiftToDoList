@@ -23,5 +23,6 @@ jobs:
 
     - name: Build and test
       run: |
+        cd /Users/melikesultancan/Desktop/ios/MySwift/ToDo
         swift build
         swift test
